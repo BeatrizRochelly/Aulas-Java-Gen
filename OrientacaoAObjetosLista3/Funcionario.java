@@ -2,8 +2,8 @@ package OrientacaoAObjetosLista3;
 /* 4) Crie uma classe funcionário e apresente os atributos e métodos
 referentes esta classe, em seguida crie um objeto funcionário, defina as
 instancias deste objeto e apresente as informações deste objeto no
-console.*/
-
+console.*/ 
+//Questão 4//
 public class Funcionario {
 	
 	//CARACTERISTICAS --> ATRIBUTOS
@@ -62,14 +62,7 @@ public class Funcionario {
     	this.salario = salario;
     }
    
-    public boolean getModelotrabalho() {
-    	
-    	return this.modelotrabalho = modelotrabalho;
-    }
-    public void setModelotrabalho(boolean modelotrabalho) {
-    	
-    	this.modelotrabalho= modelotrabalho;
-    }
+   
 
 		
 
